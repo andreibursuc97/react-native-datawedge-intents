@@ -426,7 +426,7 @@ public class RNDataWedgeIntentsModule extends ReactContextBaseJavaModule impleme
         }
     };
 
-    public BroadcastReceiver genericReceiver = new BroadcastReceiver()
+    public static BroadcastReceiver genericReceiver = new BroadcastReceiver()
     {
         @Override
         public void onReceive(Context context, Intent intent) {
