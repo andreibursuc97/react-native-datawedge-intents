@@ -26,6 +26,6 @@
   "repository": "https://github.com/darryncampbell/react-native-datawedge-intents",
   "bugs": "https://github.com/darryncampbell/react-native-datawedge-intents/issues",
   "peerDependencies": {
-    "react-native": ">=0.56"
+    "react-native": ">=0.70"
   }
 }
